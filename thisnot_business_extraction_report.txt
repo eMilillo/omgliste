@@ -3,7 +3,7 @@ Report Estrazione Link da thisnot.business
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Inter - Fluminense', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-omg.onrender.com/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Inter - Fluminense', Canale='Mediaset'
@@ -19,7 +19,7 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznFree
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='03:00 Manchester City - Al Hilal', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-omg.onrender.com/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='03:00 Manchester City - Al Hilal', Canale='Channel5'
@@ -27,7 +27,7 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Juventus', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-omg.onrender.com/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Juventus', Canale='Mediaset'
@@ -35,7 +35,7 @@ Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='03:00 Borussia Dortmund - Monterrey', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://mediaflow-proxy-omg.onrender.com/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Dettagli: Categoria='CALCIO', Evento='03:00 Borussia Dortmund - Monterrey', Canale='Sat.1'
